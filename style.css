@@ -134,7 +134,7 @@ body {
 
 .single-news {
   padding: 0rem 0.5rem;
-  background-color: var(--bgColor);
+  /* background-color: var(--bgColor); */
   height: 35rem;
   width: 100%;
   display: flex;
@@ -144,7 +144,7 @@ body {
   row-gap: 1rem;
   border-radius: 1rem;
   object-fit: contain;
-  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  /* box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; */
 }
 
 .single-news img {
